@@ -1,0 +1,171 @@
+<!doctype html>
+<html> 
+  <head> 
+  	<title>SpongeBob SquarePants Resume</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&display=swap" rel="stylesheet">
+
+    <style>
+
+      body {background-color: darkgreen;}
+h1 {
+  color: ghostwhite;
+  text-align: center;
+  background-color: black;
+padding: 10px;
+font-family: Handjet;}
+h2 {font-family: Handjet;}
+
+h2,ul { text-align: center; 
+list-style-position:inside}
+
+h2{
+  outline-style: dotted;}
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;}
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* visited link */
+a:visited {
+  color: #00FF00;
+a:<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+
+</body>
+</html>}
+
+
+
+p{
+  selector::pseudo-element 
+  property: value;
+}
+
+ p {padding-inline-end: initial;::first-line
+  color: blue;
+  text-transform: uppercase;}
+
+
+
+
+    </style>  
+
+
+    <meta charset="UTF-8">
+    <meta name="description" content="Spongebob Squarepants Resume">
+    <meta name="author" content="Krusty Krab">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+   </head>
+
+   <body>
+
+   	   <img src="spongebob-horror.avif" alt="spongebob-horror pic">
+<h1>Spongebob Squarepants Resume </h1>
+
+
+    <ul>
+
+<h2><b> Contact</b> </h2>
+
+<ul>
+  <li> 123 Bikini Bottom Ave </li>
+<li> Bikini Bottom, Pacific Ocean 99999</li>
+
+<li>Phone: (555) 123-4567</li>
+<li>mail: sponge@bikini_bottom.com</li>
+</ul>
+
+<h2> Objective </h2>
+
+
+<p> Enthusiastic and dedicated sea sponge seeking to leverage unparalleled work ethic and customer service skills to contribute to the success of the Krusty Krab. Eager to utilize extensive experience in food preparation and a passion for upholding high standards of cleanliness and guest satisfaction. </p>
+
+<h2>Experience</h2>
+
+
+<b> Krusty Krab </b>:
+Link: <a href="https://krusty-krab.vercel.app/" Krusty Krab="bikini_bottom">Krusty Krab<a/><br> 
+<i> Assistant Fry Cook </i>
+<p> Bikini Bottom, Pacific Ocean </p>
+<p> May 1999 - Present</p>
+
+
+<p> Successfully prepared and cooked over 2,000 Krabby Patties per day, maintaining consistent quality and taste.
+Operated kitchen equipment with precision, including the grill, fryer, and spatula.
+Ensured cleanliness and organization of workstations, exceeding health and safety standards.
+Provided excellent customer service, greeted patrons with a friendly attitude, and resolved issues promptly.
+Assisted with inventory management, including stocking supplies and handling orders efficiently. </p>
+
+<b> Jellyfish Fields</b>: Link: <a href="https://spongebobsimulator.fandom.com/wiki/Jellyfish_Fields?" Jelly Fish Fields="Jellyfish_Fields">Jelly Fish Fields<a/><br> 
+<i> Jellyfish Wrangler </i>:
+<p> Bikini Bottom, Pacific Ocean </p>
+<p> June 1998 - April 1999</p>
+
+<p> Managed and cared for jellyfish, including feeding and maintaining their habitat.
+Developed a deep understanding of jellyfish behavior, contributing to successful jellyfishing expeditions.
+Implemented effective strategies for catching and releasing jellyfish, ensuring their well-being and safety. </p>
+
+<b>SpongeBob’s Pineapple House</b>:
+<i> Household Manager</i>
+<p> Bikini Bottom, Pacific Ocean</p>
+<p> July 1997 - May 1998 </p>
+
+<p> Organized and maintained a clean and orderly home environment.
+Prepared meals and managed household duties, including budgeting and inventory.
+Developed excellent multitasking skills while managing various household responsibilities.</p>
+
+<h2> Education</h2>
+
+<Li> Bikini Bottom High School</Li>
+<p> High School Diploma </p>
+<p> Bikini Bottom, Pacific Ocean </p>
+<p> Graduated: June 1997 </p>
+
+<Li> Relevant coursework: </Li>
+<i> <p>Home Economics, Physical Education, Art
+Krusty Krab Cooking Academy </i> </p>
+<p> Certificate in Advanced Fry Cooking </p>
+<p> Bikini Bottom, Pacific Ocean </p>
+<p> Completed: March 1999 </p>
+<p> Specialized training in Krabby Patty preparation, grill management, and kitchen safety. </p>
+
+<h2> Skills </h2>
+
+<Li> Food Preparation: Expertise in cooking, grilling, and frying, with a focus on Krabby Patties.</Li>
+<Li> Customer Service: Friendly and approachable demeanor with a knack for making customers feel welcome. </Li>
+<Li> Cleaning & Maintenance: High standards for cleanliness and organization in a fast-paced environment. </Li>
+<Li> Teamwork: Collaborative and supportive team player with strong communication skills.
+Problem-Solving: Quick thinker with the ability to handle unexpected situations effectively. </Li>
+
+<p> Certifications 
+Food Handler’s Safety Certification
+Issued by Bikini Bottom Health Department
+
+Advanced Grill Master Certification
+Krusty Krab Cooking Academy </p>
+
+References
+Available upon request.
+
+SpongeBob SquarePants
+[Signature]
+
+
+</body>
+</html> 
